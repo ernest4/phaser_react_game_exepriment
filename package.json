@@ -1,24 +1,19 @@
 {
-  "name": "phaser3-project-template",
-  "version": "1.1.0",
-  "description": "A Phaser 3 Project Template",
+  "name": "phaser3-react-experimental",
+  "version": "0.1.0",
+  "description": "Proof of concept, react and phaser 3 with async asset loading",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
     "start": "webpack-dev-server --config webpack/base.js --open",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/photonstorm/phaser3-project-template.git"
-  },
-  "author": "Taylor Nodell and Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)",
-  "license": "MIT",
-  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "author": "Ernestas Monkevicius <ernestas.monkevicius@ucdconnect.ie> (https://www.linkedin.com/in/ernestas-monkevicius-gm/)",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/photonstorm/phaser3-project-template/issues"
+    "url": "https://github.com/ernest4/phaser_react_game_exepriment/issues"
   },
-  "homepage": "https://github.com/photonstorm/phaser3-project-template#readme",
+  "homepage": "https://github.com/ernest4/phaser_react_game_exepriment#readme",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/plugin-proposal-class-properties": "^7.4.0",
